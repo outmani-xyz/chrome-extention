@@ -1,0 +1,11 @@
+body{ 
+    min-width: 120px;
+}
+.app-title{
+    text-align: center;
+    font-size: 18px;
+}
+#amount{
+    padding: 2px;
+    margin: 4px 2px;
+}
